@@ -78,10 +78,43 @@ c. ## configure the github on terminal
 4. git status : {red : rep. files that are not yet added to be committed} {green rep. files that are ready to be committed}
 5. git add .
    git add filename/foldername
+6. git commit -m "add commit message"
+7. git push origin branchname(master/main)
+
+#### when the project is not new 
+
+4. git status : {red : rep. files that are not yet added to be committed} {green rep. files that are ready to be committed}
+5. git add .
+   git add filename/foldername
+6. git commit -m "add commit message"
+7. git push origin branchname(master/main)
 
 
+## HTML 
+1. HTML elements : an html element will defined with a start tag , some content and then an end tag 
+   <>  content </>
+   </> :: enclosing tag. 
+2. Nature of the element :: <body>   </body> 
+   - Block level element :: occupies entire width of the canvas  
+   - Inline element  :: occupies only necessary width required by the elements 
+3. HTML Attributes :: more info. about the element <meta data abt the element>
+   every single html element can have an attribute 
 
 
+## CSS 
+- cascading stylesheets
 
-
-
+Key Concepts 
+1. How to write CSS .... 
+    - inline css : css directly written on the element : style attribute
+    - internal css : css script written inside the html document : style element 
+    - external css : css script is an external linked to the html document
+    - Syntax 
+    identifier/selector : { 
+                           property: value;
+                           }
+2. How to select element to style 
+     - inline css :  the element is the selection
+     - id attribute : unique identifier for our elements 
+     - class attribute : grouping identifier for our elements 
+     - tag elements : identifying the element to style using its html element name 
