@@ -117,4 +117,14 @@ Key Concepts
      - inline css :  the element is the selection
      - id attribute : unique identifier for our elements 
      - class attribute : grouping identifier for our elements 
-     - tag elements : identifying the element to style using its html element name 
+     - tag elements : identifying the element to style using its html element name
+
+
+### CSS GRID 
+                                            1. Navbar navbar
+2.Courses List                         3. video playing about emobilis                  4.Some content
+5.ShortCoures List                     6. Course application form                       7.Some content 
+                                             8. Footer footer 
+
+
+1. Parent container 
